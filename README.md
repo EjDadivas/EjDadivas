@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Hacktoberfest and OceanDB with<br>👯 I'm looking to collaborate on any web development projects<br>🌱 I'm currently learning FastAPI and GraphQL
+🔭 I'm currently working on Hacktoberfest, OceanDB(I'm working with the backend), and MacsGarahe(a website for a local coffee store in my city)<br>👯 I'm looking to collaborate on any web development projects<br>🌱 I'm currently learning FastAPI and GraphQL
 
 
 ## 🌐 Socials:
