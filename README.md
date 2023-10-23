@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Hacktoberfest, OceanDB(I'm working with the backend), and MacsGarahe(a website for a local coffee store in my city)<br>👯 I'm looking to collaborate on any web development projects<br>🌱 I'm currently learning FastAPI and GraphQL
+🔭 I'm currently working on Hacktoberfest, OceanDB(I'm working with the backend), and MacsGarahe(a website for a local coffee store in my city)<br>👯 I'm looking to collaborate on any web development projects<br>🌱 I'm currently learning FastAPI and GraphQL, Cloudinary
 
 [![An image of @ejdadivas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ejdadivas)](https://holopin.io/@ejdadivas)
 ## 🌐 Socials:
