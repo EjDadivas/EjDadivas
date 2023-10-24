@@ -11,9 +11,9 @@
    - Description: A user-friendly tool for enhancing images with AI-powered fills.
    - Technologies: TypeScript, Next.js, Cloudinary, Tailwind CSS, Framer Motion, Shadcn
    - [Link to Project](https://github.com/EjDadivas/pixelwise-fill)
-2. Node, Express, MongoDB APIs
-   - [blogapi](https://github.com/EjDadivas/blog-api)
-   - [asset-management-api]([https://github.com/EjDadivas/blog-api](https://github.com/EjDadivas/asset-management-api))
+2. Node, Express, JWT, MongoDB APIs
+   - [Blog API](https://github.com/EjDadivas/blog-api)
+   - [Asset Management API]([https://github.com/EjDadivas/blog-api](https://github.com/EjDadivas/asset-management-api))
    
 
 # 💻 Tech Stack:
