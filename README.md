@@ -11,9 +11,20 @@
    - Description: A user-friendly tool for enhancing images with AI-powered fills.
    - Technologies: TypeScript, Next.js, Cloudinary, Tailwind CSS, Framer Motion, Shadcn
    - [Link to Project](https://github.com/EjDadivas/pixelwise-fill)
-2. Node, Express, JWT, MongoDB APIs
+2. Workout Video Analysis (Soon to Deploy, Repository is currently private)
+   - Description: This program will be able to count the repetitions, to check the correctness and to check form of the user while they perform a certain workout.
+   - Technologies: Python. OpenCV, PYQT5, and Mediapipe, Firebase
+3. [PromptOasis](https://budget-app-react-bootstrap.vercel.app/)
+   - Description: An open-source AI prompting tool for modern world to discover, create and share creative prompts
+   - Technologies: Nextjs, MongoDB, NextAuth, TailwindCSS
+   - [Link to Project](https://github.com/EjDadivas/project_promptoasis)
+4. [Budget App](https://budget-app-react-bootstrap.vercel.app/)
+   - Description:  A simple tool that helps you manage your finances by tracking your budget and expenses
+   - Technologies: ReactJS, Bootstrap
+   - [Link to Project](https://github.com/EjDadivas/BudgetApp-React-Bootstrap)
+5. Node, Express, JWT, MongoDB APIs
    - [Blog API](https://github.com/EjDadivas/blog-api)
-   - [Asset Management API]([https://github.com/EjDadivas/blog-api](https://github.com/EjDadivas/asset-management-api))
+   - [Asset Management API](https://github.com/EjDadivas/asset-management-api)
    
 
 # 💻 Tech Stack:
