@@ -3,7 +3,7 @@
 
 [![An image of @ejdadivas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ejdadivas)](https://holopin.io/@ejdadivas)
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/esther-joy-dadivas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/senpai__ej) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-joy-dadivas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/senpai__ej) 
 
 ## Project List
 
