@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on OceanDB(I'm working with the backend), MacsGarahe(a website for a local coffee store in my city), and other freelancing jobs<br>👯 I'm looking to collaborate on any web development projects<br>🌱 I'm currently taking FreeCodeCamp's Data Analysis with Python.
+🔭 I'm currently working on OceanDB(I'm working with the backend) and other freelancing jobs<br>👯 I'm looking to collaborate on any web development projects<br>🌱 I'm currently taking FreeCodeCamp's Data Analysis with Python.
 
 [![An image of @ejdadivas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ejdadivas)](https://holopin.io/@ejdadivas)
 ## 🌐 Socials:
